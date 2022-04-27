@@ -1,6 +1,10 @@
 # ukr_corpus_aggression
 
+
+
 Ukrainian-language corpus of aggressive texts of network discourse.
+
+
 
 censor-parser.py - scraping comments from Censor.Net (it is necessary to specify the number of pages and language of comments, additionally determines the polarity);
 
@@ -18,7 +22,11 @@ bigramms.csv - unique bigramms in descending order of frequency.
 
 
 
+
 Українськомовний корпус агресивних текстів мережевого дискурсу.
+
+
+
 
 censor-parser.py - парсинг коментарів з Цензор.Net (необхідно вказати кількість сторінок та мову коментарів, додатково визначає полярність);
 
